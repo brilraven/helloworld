@@ -1,0 +1,1 @@
+Today is 6/24/15. It is now 3:44 PMFirst attempt to use git
